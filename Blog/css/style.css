@@ -16,7 +16,7 @@ html, body{
     --midnight: #104f55;
 
     /*gradient color*/
-    --sky: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    --sky: linear-gradient(-20deg, #00cdac 0%, #8ddad5 100%);
     
     /*theme font-family*/
     --abel: 'Abel', cursive;
