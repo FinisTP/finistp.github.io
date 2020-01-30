@@ -1,0 +1,30 @@
+
+/*ABEL FAMILY*/
+@font-face{
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+
+/*GARAMOND FAMILY*/
+@font-face{
+    font-family: EB_Garamond;
+    src: url('../fonts/EB_Garamond/EBGaramond-VariableFont_wght.ttf');
+}
+
+/*LIVVIC FAMILY*/
+@font-face{
+    font-family: Livvic;
+    src: url('../fonts/Livvic/Livvic-Medium.ttf');
+}
+
+/*POPPINS FAMILY*/
+@font-face{
+    font-family: Poppins;
+    src: url('../fonts/Poppins/Poppins-Regular.ttf');
+}
+
+/*ROBOTO FAMILY*/
+@font-face{
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-Medium.ttf');
+}
